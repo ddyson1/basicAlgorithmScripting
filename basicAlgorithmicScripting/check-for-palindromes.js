@@ -27,7 +27,7 @@ function palindrome(str) {
   return true;
 
 }
-
-palindrome("eye");
+	
+palindrome("racecar");
 
 }
